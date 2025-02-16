@@ -8,7 +8,10 @@ What it fixes: the controller implemented for PC only is bypassed when it recogn
 NOTE: this was not tested with 'Build Settings' set to 'Windows' or another setting.
 
 #### How to get
-To get this project, either download a zip, or download via your terminal to a folder using "Git Clone [address of repo]" if you have Git installed.
+To get this project, either:
+- Click on 'Code' and download a zip
+or
+- Download via your terminal to a folder using "Git Clone [address of repo]" if you have Git installed.
 
 ### Discussed during class:
 - general rules of designing a smooth Android application [Oculus VR]
