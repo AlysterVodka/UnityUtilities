@@ -38,8 +38,8 @@ or
 ### Handy places on the internet to find resources:
 
 #### General
-assetstore.unity.com
-www.fab.com
+- www.assetstore.unity.com
+- www.fab.com
 
 #### Meshes
 - www.turbosquid.com
