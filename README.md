@@ -34,6 +34,7 @@ or
 - Post Processing - how to set it up
 - Differences between the experience of VR and non-VR applications
 - optimisation of meshes, audio, and scripts
+- building an application
 
 ### Handy places on the internet to find resources:
 
