@@ -30,6 +30,7 @@ To get this project, either download a zip, or download via your terminal to a f
 - LOD - Level Of Detail, for meshes
 - Post Processing - how to set it up
 - Differences between the experience of VR and non-VR applications
+- optimisation of meshes, audio, and scripts
 
 ### Handy places on the internet to find resources:
 
